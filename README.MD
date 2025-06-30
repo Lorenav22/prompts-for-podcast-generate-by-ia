@@ -60,7 +60,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt` Esse foi o meu https://fortune-scarer-026.notion.site/Prompt-nome-22223f4df3a680309b33dfc2e76488ca
+- 🤖 1. Use os prompts de roteiro no `chagpt` Esses foram os meus prompts o meu https://fortune-scarer-026.notion.site/Prompt-nome-22223f4df3a680309b33dfc2e76488ca - https://fortune-scarer-026.notion.site/Prompt-roteiro-22223f4df3a680c0953efdc090b454bc?source=copy_link - https://fortune-scarer-026.notion.site/Prompt-Imagens-22223f4df3a6808b99c5c4e0d112fad0?source=copy_link
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
